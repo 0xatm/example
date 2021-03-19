@@ -1,0 +1,16 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "Customer info contract",
+  "main": "index.js",
+  "author": "Victor Feng",
+  "license": "MIT",
+  "scripts": {
+    "compile": "truffle compile",
+    "test": "truffle test",
+    "deploy": "truffle deploy"
+  },
+  "dependencies": {
+    "truffle-assertions": "^0.9.2"
+  }
+}

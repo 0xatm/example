@@ -1,0 +1,6 @@
+{
+  "CustomerInfo": [
+    "function setCustomer(string memory _alias, uint256 _amount)",
+    "event UpdateCustomer(address indexed _from, string _alias, uint _amount)"
+  ]
+}
